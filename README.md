@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books ,exploring new things,watching movies
 - 🌱 I’m currently learning c c++ python sql
 - dsa 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning new things gaining knowledge
 - 📫 How to reach me my email id vivekshrivas03@gmail.com
 
 <!---
